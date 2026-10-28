@@ -12,3 +12,6 @@ Te cree un repositorio para esta extensión https://github.com/amarillaiara07/me
 ### 2026-10-28 15:36 UTC
 Creo que ya esta
 
+### 2026-10-28 15:40 UTC
+Mi rol es CSM, te adjunto un doc donde habla más sobre mi rol (PDF: Descripción de Trabajo – CSM)
+
